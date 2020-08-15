@@ -1,6 +1,3 @@
-server:
-  port: 8088
-
 spring:
   application:
     name: emp_service_client
